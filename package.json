@@ -1,0 +1,25 @@
+{
+  "name": "array-equilibrium",
+  "version": "1.0.0",
+  "description": "The index of an array entry that signifies equally weighed predecessors and successors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehannes-algorithm/array-equilibrium.git"
+  },
+  "keywords": [
+    "array-equilibrium",
+    "equi-weight",
+    "array",
+    "sum"
+  ],
+  "author": "@joehannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joehannes-algorithm/array-equilibrium/issues"
+  },
+  "homepage": "https://github.com/joehannes-algorithm/array-equilibrium#readme"
+}
