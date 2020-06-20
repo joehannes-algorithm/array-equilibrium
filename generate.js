@@ -1,8 +1,8 @@
 import random from "random";
 
 function generate() {
-  const size = random.int(1, 100);
-  const task = [...Array(size)].map(nullish => random.int(1, 100).toString() + " ").split(" ");
+  const size = random.int(1, 10);
+  const task = [...Array(size)].map(nullish => random.int(1, 5).toString() + " ").join(" ");
 
   return [size, task];
 }
